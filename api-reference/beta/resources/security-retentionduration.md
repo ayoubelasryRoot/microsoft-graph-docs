@@ -15,7 +15,7 @@ Namespace: microsoft.graph.security
 
 Represents how long an item will be retained before it can be deleted. This is an abstract type. 
 The **retentionDuration** resource is the base type for the
-[retentionDurationForever](../resources/security-retentiondurationforever.md) and [retnetionDurationInDays](../resources/security-retentiondurationindays.md) resourceTypes.
+[retentionDurationForever](../resources/security-retentiondurationforever.md) and [retentionDurationInDays](../resources/security-retentiondurationindays.md) resourceTypes.
 
 ## Properties
 None.
